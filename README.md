@@ -1,6 +1,11 @@
 Autor: Thálys Lemos Correa
 
+Projeto: Roleta de Sprites - Java
+
+
+
 Procedimentos para executar o programa corretamente:
+
 Verifique se os seguintes arquivos se encontram na pasta "cacaniquel" após download
   - images
   - CaçaNiquel.java
